@@ -66,6 +66,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Angular01.html" />
+    <Content Include="Angular02.html" />
     <Content Include="ScriptsAngular\Angular01.js" />
     <Content Include="Content\bootstrap-theme.css" />
     <Content Include="Content\bootstrap-theme.min.css" />
@@ -81,6 +82,9 @@
     <Content Include="Content\bootstrap-theme.css.map" />
     <Content Include="Content\bootstrap.css.map" />
     <None Include="Scripts\jquery-1.9.1.intellisense.js" />
+    <Content Include="ScriptsAngular\Angular02-main.js" />
+    <Content Include="ScriptsAngular\Angular02.js" />
+    <Content Include="ScriptsAngular\Angular02_Rodape.js" />
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />
     <Content Include="Scripts\jquery-1.9.1.js" />
