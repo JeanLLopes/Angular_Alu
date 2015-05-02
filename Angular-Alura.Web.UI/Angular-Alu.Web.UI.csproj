@@ -89,6 +89,11 @@
     <Content Include="Pages\Angular03\main.js" />
     <Content Include="Pages\Angular03\partials\Bem-Vindo.tpl.html" />
     <Content Include="Pages\Angular03\partials\Funcionarios.tpl.html" />
+    <Content Include="Pages\Angular04\Angular04.html" />
+    <Content Include="Pages\Angular04\funcionariosController.js" />
+    <Content Include="Pages\Angular04\main.js" />
+    <Content Include="Pages\Angular04\partials\Bem-Vindo.tpl.html" />
+    <Content Include="Pages\Angular04\partials\Funcionarios.tpl.html" />
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />
     <Content Include="Scripts\jquery-1.9.1.js" />
