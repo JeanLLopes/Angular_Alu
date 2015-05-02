@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
 VisualStudioVersion = 12.0.31101.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Angular-Alura.Web.UI", "Angular-Alura.Web.UI\Angular-Alura.Web.UI.csproj", "{E8A63F96-08B6-493C-8038-CCEC28ED273E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Angular-Alu.Web.UI", "Angular-Alura.Web.UI\Angular-Alu.Web.UI.csproj", "{E8A63F96-08B6-493C-8038-CCEC28ED273E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
