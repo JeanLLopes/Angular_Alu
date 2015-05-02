@@ -85,6 +85,10 @@
     <Content Include="Pages\Angular02\Angular02-main.js" />
     <Content Include="Pages\Angular02\Angular02.js" />
     <Content Include="Pages\Angular02\Angular02_Rodape.js" />
+    <Content Include="Pages\Angular03\Angular03.html" />
+    <Content Include="Pages\Angular03\main.js" />
+    <Content Include="Pages\Angular03\partials\Bem-Vindo.tpl.html" />
+    <Content Include="Pages\Angular03\partials\Funcionarios.tpl.html" />
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />
     <Content Include="Scripts\jquery-1.9.1.js" />
@@ -96,9 +100,7 @@
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="Pages\Angular03\" />
-  </ItemGroup>
+  <ItemGroup />
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
     <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
