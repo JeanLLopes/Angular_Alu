@@ -65,9 +65,9 @@
     </None>
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Angular01.html" />
-    <Content Include="Angular02.html" />
-    <Content Include="ScriptsAngular\Angular01.js" />
+    <Content Include="Pages\Angular01\Angular01.html" />
+    <Content Include="Pages\Angular02\Angular02.html" />
+    <Content Include="Pages\Angular01\Angular01.js" />
     <Content Include="Content\bootstrap-theme.css" />
     <Content Include="Content\bootstrap-theme.min.css" />
     <Content Include="Content\bootstrap.css" />
@@ -82,9 +82,9 @@
     <Content Include="Content\bootstrap-theme.css.map" />
     <Content Include="Content\bootstrap.css.map" />
     <None Include="Scripts\jquery-1.9.1.intellisense.js" />
-    <Content Include="ScriptsAngular\Angular02-main.js" />
-    <Content Include="ScriptsAngular\Angular02.js" />
-    <Content Include="ScriptsAngular\Angular02_Rodape.js" />
+    <Content Include="Pages\Angular02\Angular02-main.js" />
+    <Content Include="Pages\Angular02\Angular02.js" />
+    <Content Include="Pages\Angular02\Angular02_Rodape.js" />
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />
     <Content Include="Scripts\jquery-1.9.1.js" />
@@ -95,6 +95,9 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Pages\Angular03\" />
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
